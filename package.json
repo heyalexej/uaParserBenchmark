@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "platform": "^1.0.0",
-    "ua-parser-js": "^0.6.2",
-    "useragent": "^2.0.8"
+    "platform": "latest",
+    "ua-parser-js": "latest",
+    "useragent": "latest"
   }
 }
